@@ -1,0 +1,7 @@
+State - input query, movies
+
+useState - It is a hook in react. this is ability to manage state in functional componenet. without the classs componenet
+
+e.target.value = e is the event. target is the searchString input and value is value of target
+
+https://scrimba.com/course/greactmovie/enrolled
