@@ -66,3 +66,9 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+### About the movie api
+Used movie api 'themoviedb' tmdb.
+The api is constant-url and will be fetching the movie results accordingly. The search bar searches the movie from the keyword and sends the related card of all movies.
+https://developers.themoviedb.org/3/movies/get-movie-details
